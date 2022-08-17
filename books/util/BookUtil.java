@@ -11,7 +11,7 @@ public class BookUtil {
 	public static void main(String[] args) throws InvalidBookException {
 		// TODO Auto-generated method stub
 		BookStore bStore = new BookStore();
-//		Books book1 = new Books("b123", "asdasds","junaid", "science" , 100);
+//		Books book1 = new Books("b123", "asdasds","jhon", "science" , 100);
 //		Books book2 = new Books("b124", "abc","aditya", "fiction" , 100);
 //		Books book3 = new Books("b126", "asd","prasad", "technology" , 100);
 //		
